@@ -5,7 +5,8 @@ class Message:
         self.text=text
         self.entries={} if kwargs==None else kwargs
 
-    def get_key
+    def get_key(self):
+        pass
 
 
 
